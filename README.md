@@ -92,7 +92,7 @@ This project is an E-commerce backend API built using **Node.js**, **Express**, 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Dinesh-Chandra832/ecommerce-server.git
+   git clone https://github.com/yourusername/e-commerce-backend.git
    cd e-commerce-backend
    ```
 
