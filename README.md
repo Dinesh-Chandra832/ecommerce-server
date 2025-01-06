@@ -139,19 +139,22 @@ This project is an E-commerce backend API built using **Node.js**, **Express**, 
 
 ## 📁 Project Structure
 
+
+```
 /ecommerce-backend
 ├── /config # Configuration files
-│ ├── db.js # Database configuration
-│ └── config.js # Application configuration
+│   ├── db.js # Database configuration
+│   └── config.js # Application configuration
 ├── /controllers # Request handlers
 ├── /models # Database models
 ├── /routes # API routes
 ├── /middleware # Custom middleware
 ├── /utils # Utility functions
 └── /tests # Test files
-├── setup.js # Test setup
-├── helpers.js # Test helpers
-└── .test.js # Test files
+    ├── setup.js # Test setup
+    ├── helpers.js # Test helpers
+    └── .test.js # Test files
+```
 
 ## 📚 API Endpoints
 
