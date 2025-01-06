@@ -12,9 +12,9 @@ This project is an E-commerce backend API built using **Node.js**, **Express**, 
 4. [🧪 Testing the Project](#testing-the-project)
 5. [🚨 Error Handling](#error-handling)
 6. [📁 Project Structure](#project-structure)
-7. [🤝 Contributing](#contributing)
-8. [📄 License](#license)
-9. [📖 Swagger API Documentation](#swagger-api-documentation)
+7. [📖 Swagger API Documentation](#swagger-api-documentation)
+8. [🤝 Contributing](#contributing)
+9. [📄 License](#license)
 
 ## 🚀 Technologies Used
 
@@ -410,19 +410,6 @@ The application uses a centralized error handling middleware to catch and respon
 - **404 Not Found**: When a resource is not found.
 - **500 Internal Server Error**: For unexpected errors.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📖 Swagger API Documentation
 
@@ -455,3 +442,18 @@ POST /auth/register:
 **Description**: Register a new user.
 
 **How to Test**: Expand the endpoint, fill in the required fields, and click "Execute".
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a pull request.
+
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
